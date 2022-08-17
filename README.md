@@ -42,4 +42,4 @@ Welp thats about it to say I guess... Enjoy?
 [GitHub]: https://github.com/Skyla-Dev "SkylaDev's GitHub profile"
 [LatestVer]: https://github.com/Skyla-Dev/Willagers/releases/tag/v1.0 "Latest version of this pack download links"
 [ProjectPage]: https://skyla.dev/project/Willagers "Project page on skyla.dev"
-[WillSmithWiki]: https://en.wikipedia.org/wiki/Will_Smith/ "Will Smith - Wikipedia"
+[WillSmithWiki]: https://en.wikipedia.org/wiki/Will_Smith "Will Smith - Wikipedia"
